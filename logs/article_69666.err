@@ -1,0 +1,8 @@
+/sciclone/data10/gchewababarand/Nationalization/llnr/lib64/python3.9/site-packages/networkx/utils/backends.py:135: RuntimeWarning: networkx backend defined more than once: nx-loopback
+  backends.update(_get_backends("networkx.backends"))
+WARNING: no Hugging Face token found; gated base-model loading may fail
+/sciclone/data10/gchewababarand/Nationalization/llnr/lib64/python3.9/site-packages/networkx/utils/backends.py:135: RuntimeWarning: networkx backend defined more than once: nx-loopback
+  backends.update(_get_backends("networkx.backends"))
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:12<00:37, 12.57s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:26<00:26, 13.47s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:37<00:12, 12.42s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:39<00:00,  8.14s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:39<00:00,  9.85s/it]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  classified 1/1

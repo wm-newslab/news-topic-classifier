@@ -1,0 +1,8 @@
+{
+  "title": "City opens new bus route",
+  "content": "The new route connects downtown with nearby neighborhoods.",
+  "predicted_label": "Transportation",
+  "raw_model_output": "Transportation",
+  "classification_status": "classified",
+  "model_id": "rs001_lr2e-4_r16_a32_d00_attn_full_c1500"
+}
