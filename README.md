@@ -154,14 +154,6 @@ bash scripts/classify.sh \
   --batch-size 1
 ```
 
-## Test the interface
-
-The interface tests mock model inference and do not require a GPU:
-
-```bash
-python -m unittest discover -s tests -v
-```
-
 ## Model results
 
 The saved evaluation reports a held-out test accuracy of **86.62%** and macro F1 of **0.8708** across 314 articles. Detailed metrics and training records are available in `evaluation/` and `models/configuration.json`.
