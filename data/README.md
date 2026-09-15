@@ -1,0 +1,1 @@
+Training inputs are external: place labels_with_title.csv (title, text, final_label) and gangani_local_news_labeling_round_2_v2.csv (title, content, label) here. See the training source for exact column constants. Original article datasets are not bundled.

@@ -1,0 +1,315 @@
+row_id,dataset_source,gold_label,raw_model_output,predicted_label,correct
+57e3dc1b98842e89a61e6fad72f519fcde0381a1,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+f6b25c77db3c54ea5a29d8955f6e994288ffe0d1,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+37749fbab0c652bac66144a2e87cd5c67cccde04,round_2,Science & Technology,Science & Technology,Science & Technology,True
+bdb31c709641907913bdc2bc8e6cc4c7b82b5851,labels,Politics & Government,Politics & Government,Politics & Government,True
+f756d03043df107e88254a4a23feee6f92e3e39d,round_2,Transportation,Transportation,Transportation,True
+73c91fea03e1b7ab5da4208439bc4e534dda5b70,round_2,Transportation,Transportation,Transportation,True
+9bc0690c7992b462f9253c9960ed8258c80a7ce6,labels,Crime & Public Safety,Other,Other,False
+ceef85c0a2a0be4f69f9663d8c51ceff9086873b,round_2,Housing,Housing,Housing,True
+c4350216bda0a6fdcca49e15b9d765c69de156cd,round_2,Science & Technology,Science & Technology,Science & Technology,True
+38032ec6e17f24ecfa58c23ca4073eb9b7b378ae,round_2,Health,Health,Health,True
+07454bb2fcdf6a1a6e3ca53445e745982f279819,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+66acb142be38d7b637ff093a57665c2b95f2722c,round_2,Politics & Government,Politics & Government,Politics & Government,True
+7ef02fd796c190bf56944934f148ffedb10bc2f6,labels,Other,Other,Other,True
+5bda7b815cae324ef55881db7b00330a889fe78f,labels,Sports,Sports,Sports,True
+ee4d48f4edec89b8282f2c238fee1320d10d410a,round_2,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+82c792dd62938113c313f2dd443e1b96880439ad,labels,Sports,Sports,Sports,True
+b29c3c9424c936d688e29855eb4f12e96bb3da21,round_2,Science & Technology,Science & Technology,Science & Technology,True
+2e158e0f9840e266eed45986a2dca3cde82cb66d,round_2,Science & Technology,Science & Technology,Science & Technology,True
+ef9a404223b16380563b307bd690e9f9c0464a85,labels,Health,Health,Health,True
+afa43b77c68f58938176f97d4894854097e98ecb,round_2,Science & Technology,Science & Technology,Science & Technology,True
+c552b5ce564111f0171f224e3456c966bae12822,round_2,Health,Health,Health,True
+eedb5c6bc85507eed0c524bd2cb3088feba1e387,round_2,Education,Education,Education,True
+7939f886973e1676708750ce8fa8cc6a03546f25,labels,Other,Other,Other,True
+08c766a62a607f77c193bee971736cc0bf21a441,labels,Other,Other,Other,True
+eaf47b7b4cea18644616c6253b4eb81f389931da,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+8ee9a9f1aa13d2e8cbaff88f4dfcbe8b37a59e3b,labels,Other,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",False
+542f68afa712ed5e2659015d4e106a5c06d858ca,round_2,Economy & Business,Economy & Business,Economy & Business,True
+04c3461b86e008daba0b6c62344ceeafd1fdc85e,labels,Politics & Government,Politics & Government,Politics & Government,True
+c14bd21953f1a53457138d8f288a9db3367203c5,labels,Sports,Sports,Sports,True
+c3121aec7e72ac31b3d9859371d8bdc7d4422add,labels,Transportation,Transportation,Transportation,True
+e5beaa7d1eb3485683a4343b05d57792f7535fae,labels,Politics & Government,Politics & Government,Politics & Government,True
+608bac9e57ccb92b041bc6780887a64dfd4f28a7,labels,Economy & Business,Economy & Business,Economy & Business,True
+3f4a27f69a261eabaaac55fd6e60b6e4cae678d1,labels,Other,Other,Other,True
+3206db1b7e02750b5b5cc46b4e1f16be33e987cc,labels,Politics & Government,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",False
+b60a1cddb5bf775c2887b511ff6e3ef4d51a3d29,labels,Education,Education,Education,True
+6b4f37c0cca51e6980595a73a7cbff4bb2c7e87a,labels,Other,Other,Other,True
+114a70e5c52fcd9f5667ce2326af83978f3de14c,round_2,Other,Science & Technology,Science & Technology,False
+baa62eba6c209072c3b94ba8ec93b76878e96387,labels,Economy & Business,Economy & Business,Economy & Business,True
+51488a2e03103f3e7455ca32f4a23f95c0bd3569,labels,Politics & Government,Politics & Government,Politics & Government,True
+c8656722381341c78201ee04191b93d8cfeb8201,labels,Other,Other,Other,True
+8d0469923b23ae57b91860e200433387afb59cd3,labels,Sports,Sports,Sports,True
+d3d11d15298a8766e89af2c35f754ce4b81dfa8a,labels,Other,Other,Other,True
+60f5b3c3e9cc962eb18c3689aa094fedc35b5b8f,round_2,Housing,Housing,Housing,True
+ed331c6e4d27645874855a1d100aada9e7ac69b0,labels,Other,Other,Other,True
+f1a630804a553659807127e5c7ed7fa9db4b1e6e,labels,Other,Other,Other,True
+fb2107941c4b930a8897fa0e30d5bed792423c63,labels,Sports,Other,Other,False
+64747d9200b920c8c7cdcbd3d6f5d3018a026549,labels,Health,Health,Health,True
+b2c158d68c3ceba77e58caea7c8350ce3c1b5f7c,round_2,Education,Education,Education,True
+9fe3014bdebaf9023f86f2932e51d9dd1d5ae18d,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+55e88990b8b0bb969a2da91056439e71b26cb7ac,labels,Environment & Weather,Environment & Weather,Environment & Weather,True
+dad2d529903a719e3cccd353c87b0091d842babd,labels,Politics & Government,Politics & Government,Politics & Government,True
+340539f0f4f26869563d89ebbe02e38283955f37,labels,Sports,Sports,Sports,True
+895c8a9c2cff16831e1afddabc6c96cb415ef3fb,labels,Politics & Government,Politics & Government,Politics & Government,True
+553888998e4ff4311194d0c99d9dc472757dabad,round_2,Education,Education,Education,True
+bae39e9a068dd500c637865b861c092470984f76,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+b85cfaca361f08ed1cf9ae97d6fac0635a5d02da,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+b492ca0de361af3674a472087938194fc4281b3a,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+7fbffc5a46bd096d57a6c341201e442da269f57c,labels,Health,Health,Health,True
+f1a29bf3c0b8c4229e5394e3a3bb73f5d2090832,round_2,Health,Health,Health,True
+c6283b69c9842dc429c125cbb446f91803724ef6,round_2,Economy & Business,Economy & Business,Economy & Business,True
+b05e61d940af6f0eb8b58aa1332e2d0da05fb437,round_2,Transportation,Transportation,Transportation,True
+224a279e044f777167e9f55f92b3615d77b4fbe9,round_2,Transportation,Transportation,Transportation,True
+e479e69e157de25f873efe930452ae1b1f402711,labels,Environment & Weather,Environment & Weather,Environment & Weather,True
+662c1d530ad51f803184e79cb20c2d34bc25611f,labels,Education,Health,Health,False
+b9b7e100a2cdaef9db9db3a160ccbd98c5591368,round_2,Transportation,Crime & Public Safety,Crime & Public Safety,False
+4aa04f79bec7af578cc7eab04aa701457aedbd02,round_2,Housing,Housing,Housing,True
+1fc77803667410118eab97af8dedb3bc5af3532d,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+cfddcbd9ecf59c6b7de34891b614c006fb71cb5b,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+8f5e4601acfb4cae935e7630745600178aab5d8f,round_2,Economy & Business,Economy & Business,Economy & Business,True
+f93cf2acb471e29a24a25bc9aae5fd475cc1c98d,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+df314cb1ce0a4f638b8136c806c82b44eb70f75b,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+a9c5945aa2e08d036c850f48c199d359da84e618,labels,Politics & Government,Politics & Government,Politics & Government,True
+f0edbe1bd178ccf6a893ed8a2fba0b66a018a863,labels,Politics & Government,Politics & Government,Politics & Government,True
+be03523f47048eba5c678c86b01a10e7600d8262,labels,Sports,Sports,Sports,True
+bf23b6338ee316a3d744ba2d5aa5ac249d057531,round_2,Economy & Business,Housing,Housing,False
+bd39c603053a27b5fd6252c2e242c1a6fbc871c5,labels,Sports,Sports,Sports,True
+b9100568e5f5e7b0ff7f9badbd5f0ad0203d821e,round_2,Science & Technology,Science & Technology,Science & Technology,True
+85c1ea64cc3af692a022ff05a8075697b6c98fde,round_2,Transportation,Transportation,Transportation,True
+806b834451018b3578bc7e0dd0fc605e81aaf497,round_2,Housing,Housing,Housing,True
+ee881798f4427ccc1c7c812647007a07ec5376fc,labels,Sports,Sports,Sports,True
+a40963a25dff96ea808a7d470ea35246d14dc679,labels,Environment & Weather,Environment & Weather,Environment & Weather,True
+96b8710a85eecb031038292e0bbe96bad8b2f312,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+65fcc35087c549d9b5405b7d39a4450e19d02a5f,labels,Other,Other,Other,True
+05ce33840f6dcacc71fe81e41b7f14664ee373e7,labels,Economy & Business,Economy & Business,Economy & Business,True
+9c1c280c9c19ce6d691113138c66520571c99b86,round_2,Education,Education,Education,True
+8bdf4b2da66a7ab190d24724f267c47951e5bb5e,round_2,Housing,Housing,Housing,True
+a55bd6a629798793c72c67b87a4315ef4ed378cb,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+929078ba7baf862517ec76e037614c82aa6d2da7,round_2,Science & Technology,Science & Technology,Science & Technology,True
+915075a0c8ccda3d1afc8cda31654f554bef3d04,round_2,Health,Health,Health,True
+60ea6528385b6fcc1511182d2bd4fd026bb8b29a,round_2,Science & Technology,Science & Technology,Science & Technology,True
+93c7611a10ca67e7381adf87989fe376581e7161,labels,"Lifestyle, Arts & Entertainment",Other,Other,False
+b84dafe898c91da535186facda8ecfc8ba08cab4,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+176fad2cf16187e7a63f2988ea420dfe13ae6485,round_2,Science & Technology,Science & Technology,Science & Technology,True
+6e1a317d338df6955d0b633563bcf7d2f98ef6a4,labels,Politics & Government,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",False
+1947eeb9d5885aeb9daf12dc5014995fcfbf7b7d,labels,Sports,Sports,Sports,True
+574106cda05b2106860ab8a63f516aa1f67839e1,labels,Environment & Weather,Environment & Weather,Environment & Weather,True
+492c0132936dfe9bfbf55a38c24474aac6dadd60,round_2,Transportation,Transportation,Transportation,True
+2470567c6ebf5d2a4e90f1d62fa9ff8819eb474b,labels,Science & Technology,Economy & Business,Economy & Business,False
+595276ecb933c56de72bb63b6ef66879944008db,labels,Sports,Sports,Sports,True
+6bfb5f336b00e08315f13218f51d576ddf934cb2,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+9122edc8f84c0f43219bbb6e58d1c5b95124ca6e,round_2,Health,Housing,Housing,False
+aa52f2066ef3a393a2c23892862272e9f329e551,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+d6319546a4d9cdb047a06703634c3cfe68b87c04,labels,Other,Other,Other,True
+f62e35d2189f4b6c67f6855dbcbf5854ac482e14,round_2,Education,Education,Education,True
+61335fbaf03016701f2f72e7b1edaf7d00047ed5,labels,Sports,Sports,Sports,True
+fe4ba44595996ac9b0d4ac8d71cd5088b75ea908,round_2,Science & Technology,Science & Technology,Science & Technology,True
+d40b65d62eca00a44ae81f48cf8e0293d771ddd9,labels,Politics & Government,Politics & Government,Politics & Government,True
+a98708ed53d37edd64f3b1840d53b8cf600887ef,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+45c7f42262c1685f13a3d1ee9a08bef5867d664d,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+815e700cf177367142ca1f5ad67f46c091d3a4eb,round_2,Economy & Business,Economy & Business,Economy & Business,True
+9cecda825af2d231209dbc8804436f0979b0d613,round_2,Transportation,Transportation,Transportation,True
+f9cf1d9678156b27e83a4d48e493310ad9aa3999,labels,Politics & Government,Politics & Government,Politics & Government,True
+1c19f511d50aca5fb5acf15d9ac97a92de5e1a96,labels,"Lifestyle, Arts & Entertainment",Other,Other,False
+4452ff6295c909b2087eed342c12b1b20f5e3280,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+638c8cf7f3aa19c3f352ce69df807ea7ef45a504,labels,Education,Education,Education,True
+eae4ee786804895fb2492b41cea855b0a8616b67,labels,Other,Other,Other,True
+20847fd0fa173f5d06d845ecc92736fb8eb95c6c,round_2,Transportation,Transportation,Transportation,True
+3666ad323a7f266fd51d95a1abaa3771ca38da75,labels,Politics & Government,Politics & Government,Politics & Government,True
+18074fa29306e2150679f92e21e7810ec1fdff87,round_2,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+3bb2464e97c8533c61c9d7f9c62794303f6f398d,round_2,Sports,Sports,Sports,True
+589e9cd3eb0ae18c82f38ea66b7a0f12e11d8496,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+377e7e9f33698867f9c04ec0241a11d9a450a0f0,labels,Environment & Weather,Environment & Weather,Environment & Weather,True
+3dfcec17b04b6dcddd4e078ac6ef41ef23d5f032,round_2,Economy & Business,Economy & Business,Economy & Business,True
+0de2e4d34054541e3f0274c91b4f2a61f317699e,labels,Politics & Government,Crime & Public Safety,Crime & Public Safety,False
+495f8f924335d610ed6af27c4ac286dab0010154,round_2,Transportation,Transportation,Transportation,True
+8366dad7a0ddd36bf35d6b24f7cd4a08fd7b6b64,round_2,Housing,Housing,Housing,True
+87cb406d0e931184926f09b65d6748822076a1e6,labels,Other,Other,Other,True
+cabd2e0c028dbca3746f1b96c56a2e764204be89,labels,Sports,Sports,Sports,True
+11f4716995428772e82ce8eb216d94c33ae634ed,round_2,Science & Technology,Science & Technology,Science & Technology,True
+ef2c8d0daf7e0e07cf0396adc2310294c052c8b2,labels,Other,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",False
+99941651c4c9f828c118155be22120ca8dda144c,labels,Sports,Sports,Sports,True
+432357c3ac880a7a84c6a4dcddeb457618ca8209,labels,Economy & Business,Economy & Business,Economy & Business,True
+7def603c8d1379a6b87cacaa96bf760196c327be,labels,Health,Health,Health,True
+012ac5a35b14bb853b17f06ecbd6182494588018,round_2,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+2df424a2db998f99f265064bdbf449b4791f1290,round_2,Health,Health,Health,True
+cfef77ba7e45bac51655b345c21f236a51d9b408,labels,"Lifestyle, Arts & Entertainment",Education,Education,False
+9fc2aa1284f072c77e18cfa751474e49e85399ac,round_2,Science & Technology,Science & Technology,Science & Technology,True
+9201c32c6426ff568be12e55a3c295db83004ebf,labels,Sports,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",False
+06d2f898a67b3618914bb5fa5ba85a00b60069f5,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+9ac964560259b8358d90a5e76cecefdcdfdeb52e,labels,Science & Technology,Science & Technology,Science & Technology,True
+2a1c8dee90cb34a1ce84f66215d624f6630a1a00,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+d59aa1dd6e4f3ccaaf93940a638292dc86fe4cc1,round_2,Science & Technology,Science & Technology,Science & Technology,True
+4bd880cfa54744f2dc26ab54e1b11940f46d0000,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+2fcfd2175f2246a1d73c11aef803abb1e77ec79a,labels,Politics & Government,Politics & Government,Politics & Government,True
+15ac06b5ec917e9dfb919c2a1de3ff4b1b5341fb,round_2,Science & Technology,Science & Technology,Science & Technology,True
+fd8b89556b4b8ebdd6939ae9b47d8af3cccb8cbf,labels,Economy & Business,Economy & Business,Economy & Business,True
+ad30758728465e8a0cf3ccc14f8d47001fadda81,round_2,Science & Technology,Science & Technology,Science & Technology,True
+11ad58db309c25f411685315efb14d53327b13d1,labels,Economy & Business,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",False
+21521c8c02d624af42a810920d2c19782804ecd4,labels,Sports,Sports,Sports,True
+c82e12a3edfba0261e211d27009a655fd031b854,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+87dae7fe83c827345d165c9d7bba71bd5567a6ba,round_2,Politics & Government,Science & Technology,Science & Technology,False
+65a765b83d08c4f27dd618ed6ecf38031ce97ab1,round_2,Health,Health,Health,True
+80f4f0d2752a0ec110cf32610835e05ab01400fa,labels,Other,Other,Other,True
+daba27d07d6c6996b01e9e6e564bd6ca34e86814,round_2,Housing,Housing,Housing,True
+5d92b69c87f8854966ce3320468e3c10160f7223,round_2,Politics & Government,Science & Technology,Science & Technology,False
+1aba5cd0283e71a57ae1682398e315fd31637169,labels,"Lifestyle, Arts & Entertainment",Other,Other,False
+ce5c7288288389b941beca01c0500283faba56e9,labels,Sports,Sports,Sports,True
+42f080dc283e3301dd4c09380db96b605d142c42,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+f61d81b76dfc2335bc5c026c5da71fbb6e760411,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+7540f2101bdb9076636e947c74c9bc7337f26204,round_2,Housing,Housing,Housing,True
+dd948fe81ffb858b6f966495426d94fa8e17bdb0,labels,Sports,Sports,Sports,True
+1ddad279fc3bf1b1ec5fdb171000b71248f0ca52,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+653b3c2508fb26576a9ec836a44cffa493d89bf1,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+87f1d4b303e6372d3ea461720562ade38d82da08,labels,Sports,Sports,Sports,True
+86ba9f94346d6d5a3c2592a750e99fcea118e4e4,round_2,Science & Technology,Science & Technology,Science & Technology,True
+a3d0920a1ca8ad00259c82d92e849ad30bbea8cc,labels,Politics & Government,Politics & Government,Politics & Government,True
+17207efb03cc581cc3f5a5b5af26f9ad8428c361,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+f5d0f76bcc96186a4ad797eb7451d3b12c9fabb5,round_2,Transportation,Transportation,Transportation,True
+d3fac168d140b08e6994fea76a3789cdeab54055,labels,Other,Other,Other,True
+7dede36bed53196656229a25b7d1889a61074040,round_2,Housing,Housing,Housing,True
+a57d5caa2ec1ef4c430d1734e35efec5ed4f072c,labels,Sports,Sports,Sports,True
+2cfe252272d1b1977e324da50451c643a441769e,round_2,Health,Health,Health,True
+615ec4e1064b11cba59b289a50b45cdecd22463e,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+f017811af54f986649263750bb01a34276b8322e,labels,Sports,Sports,Sports,True
+06e9d26231aee12b7a7327a3bbb548170dab3080,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+84cd83c21cf36396206ed88be6e1e4f9f1b2908f,round_2,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+a2e9a2a4ccf039c4c5b77c04cbc10ed045c80eee,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+dd42f920bf24946e400e4053b0440848ac1d0ef4,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+d0575be4794cef50a803c490260cbbfdf9db9a49,labels,Other,Other,Other,True
+f84a03cd846a4b6e4b379828321fd559945f9c7d,labels,Politics & Government,Politics & Government,Politics & Government,True
+2af26f1c96eac3027cfe9dca634ea1cdc34e24ce,round_2,Education,Education,Education,True
+aab673e47396827fdee0029138925d152798bd12,round_2,Science & Technology,Science & Technology,Science & Technology,True
+e8ba5bf884bc6e724529b00c69ad911337a34519,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+2ee07a57e8ae9467a45be481b8f3fab0ece67aed,round_2,Housing,Housing,Housing,True
+6bfabc21e5806e61937f4021c463893e68e1bc26,labels,Economy & Business,Economy & Business,Economy & Business,True
+d5764b5c927906579e68842f108b3690a22b1c14,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+21411a629baf59fb11329d203130f99267f20142,labels,Sports,Sports,Sports,True
+07de298185062e2e7e27abd95cde7ac0bec996f2,labels,Politics & Government,Politics & Government,Politics & Government,True
+4a3690b7e8399c320e5c01b87b9162ff51aae2df,labels,Sports,Sports,Sports,True
+da48e633191e9af774e430fc3ed298dc6cb713c2,round_2,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+a10b6064dd7673481ba090813c06470987128688,round_2,Health,Health,Health,True
+0a5164de2b967cc167c3b0410e76dd461b51b892,round_2,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+293d9a7a541e6e240b743907dacaab5d60edc1a1,labels,Sports,Sports,Sports,True
+48e7836d1a9a42701a21784bda6fcc290c01ef52,labels,Other,Other,Other,True
+0a59ef8f8f1bd13ca949fc3c2c3e48c93a1478fb,labels,Politics & Government,Politics & Government,Politics & Government,True
+6ed53eea1dbf67e14d74ff3f77040ff3045ca62f,round_2,Housing,Housing,Housing,True
+7f83a6c496ce232b1640068143b5a56bb09adef2,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+76db9960b9186811d20fab75eb8fc5dc799a66bd,labels,Health,Health,Health,True
+31db5a9bc1afb0b5f003734cd269f610ec5d6634,labels,Politics & Government,Other,Other,False
+c10618b887a679a158619164a5a236ca36e7d024,round_2,Housing,Housing,Housing,True
+6cf669fd628e0ffee957b92738e599fe739c7ab8,labels,Transportation,Transportation,Transportation,True
+3573c0ad909095f16ee2783acb780daca3643b40,labels,Economy & Business,Economy & Business,Economy & Business,True
+d8763413f65bd7ce807082bf2e42d8d347c8f3c2,labels,Health,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",False
+96949398005a25669c0f17b5cca4235d17de999e,round_2,Housing,Housing,Housing,True
+56ca188b27cea7e053417326e19fa54520cd2ffc,labels,Economy & Business,Economy & Business,Economy & Business,True
+297ec26bb3550f855d972846e523a83552877769,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+879203b5c7aa358dd5bb491c986b99d8f14fe072,round_2,Health,Other,Other,False
+1df98e05a22e129e9166a8189ec48ccc17b19db4,round_2,Science & Technology,Science & Technology,Science & Technology,True
+ae4c58faf6c4eb308ecac4331d40342d54d3dad2,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+3542c872489cd15c54d28f973ffb6cedf065f221,labels,Crime & Public Safety,Transportation,Transportation,False
+2adc7f332ffaad60dc8c1a0ee1e9ef0f3c223458,round_2,Housing,Housing,Housing,True
+f23d830319f3cbf377e07faca3fcea05d303b542,labels,Sports,Sports,Sports,True
+2a0c41a8fca8b912adac52347ed12d7e29ddebdb,labels,Sports,Sports,Sports,True
+7e115be7f88bf9fcf9ae0148550ee8e13da2aa1a,labels,Politics & Government,Transportation,Transportation,False
+a88f22d4978be1c71389335a83571755aeb294f9,labels,Education,Education,Education,True
+265a40a53afbeb4e4a7a05926cb2758a35f6b363,round_2,Science & Technology,Science & Technology,Science & Technology,True
+2a7b4231ae4a008d896e78db19def5030aac861b,labels,Politics & Government,Economy & Business,Economy & Business,False
+3254fc2f45ac969e831c0558521c0c23b8d2ed86,labels,Health,Health,Health,True
+d01737eb4f1ccf69af6546ea073f1c559335f57b,labels,Other,Other,Other,True
+972512af94fe626deaefcf3b24b2ca229fb108fc,labels,Sports,Sports,Sports,True
+12bd1bf962d2d37a18a9db642089015f29c667d6,round_2,Economy & Business,Economy & Business,Economy & Business,True
+9998337bdc3c7fe906bb6f36a184c90a3397bc33,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+fed6e5192694b23d5bb4c1f7e36fe77bf276f300,round_2,Education,Education,Education,True
+5b2edcda591c557cdb419bcbe0ad058774b41fe3,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+03ae26237a16364a6e0a7f1d519771fd5d1e5b35,round_2,Environment & Weather,Science & Technology,Science & Technology,False
+2597bffde7dbdea8e9bcfc11594266102ca26705,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+700a65ea09435350986f0ab5a81b5f287c371f4f,round_2,Economy & Business,Economy & Business,Economy & Business,True
+472ee33a8771bc06ce2add4f6e3297f9d44060f3,labels,Politics & Government,Politics & Government,Politics & Government,True
+38d7448bbc913ab26a47ba6b3684b2a92ca97a13,round_2,Transportation,Transportation,Transportation,True
+3f63acf80dc7db02bf99a7cfb1ac8acf57c46bcc,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+a9f65f9bff85d68471657c87782060c79c2e1106,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+339455addf8755af374f3b43a4576119b7a1f427,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+33780089d972b4e4d8e56745536510c66763dd20,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+5cd70f7637b05d85e872f0be87ac2ddb8e4aaa9d,labels,Education,Education,Education,True
+be74f02f41aad774028ce9aaacfd4d624ed90855,labels,Other,Other,Other,True
+8c5de4adc81e6f705039e620d41957dbb1e58305,labels,"Lifestyle, Arts & Entertainment",Education,Education,False
+40dae8dba62e059c682208cedd153cb42e7276f1,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+59e316ce155e776da83275dd4a999a58f21e9c65,labels,Transportation,Transportation,Transportation,True
+9cbf49c34374c454ba112dbd6f15378025f61682,round_2,Housing,Housing,Housing,True
+6c6b5f48168fb365a097cff6815fd53a712abbef,labels,Environment & Weather,Environment & Weather,Environment & Weather,True
+9c3747fba5e7dfcba0ad3f8cc40f54d6dfdf3b7f,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+8f1576b4efdc3992fee031d24f975bb5eba734ba,labels,Other,Other,Other,True
+074b44db6696538968ccbee992507778ddc3d5ae,labels,Sports,Sports,Sports,True
+9f63896c3315b1324fc426c4b35554a9a88f8913,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+a798b0a7a3a3c0152e9eb5cb242d92f70a7aa035,labels,Politics & Government,Politics & Government,Politics & Government,True
+e01afe4f2b2815fedabdf28cb530751b2a1a597f,round_2,Science & Technology,Science & Technology,Science & Technology,True
+808617c59c83e359887554ffdf3c5a05a338db18,round_2,Economy & Business,Economy & Business,Economy & Business,True
+b60bc672bcba8e715e01a178adb0944a99566fbc,round_2,Health,Health,Health,True
+cc6ee0106edfe25de23a6a33bc0d764d07ed7228,round_2,Economy & Business,Economy & Business,Economy & Business,True
+22cce3572ee2af286e8c275504cbd04fd240e0bd,labels,Other,Other,Other,True
+90b45397bd75f60eecb8692956e843f895775fa7,round_2,Transportation,Transportation,Transportation,True
+5dd2a3fdfd15f0a98736ae509011413f9e86dbd3,round_2,Science & Technology,Science & Technology,Science & Technology,True
+7642721ae1b31cc6dcc439025c1705c80396f86f,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+5fdf7a2c4b0e0fdcc99eb5d5a05ce4a22a60ff58,labels,Sports,Sports,Sports,True
+22107ca3bb25eba631057bf92749dd0fb626576c,labels,Other,Other,Other,True
+411218ea237bcdb35e0a5442b81fd1082ed078ef,round_2,Housing,Housing,Housing,True
+db14dc502ed9c09e9c813925f6988159fad86b27,labels,Crime & Public Safety,Politics & Government,Politics & Government,False
+cf5a22a998cb0f97af77ec1b811c8c93ae445f90,round_2,Education,Education,Education,True
+a230317e0c174eb4e89d1b769a41c2667589c374,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+c48347541c9b915d66d3766d21e342027753d829,round_2,Health,Health,Health,True
+450c525adcdb0ab8aacfc161b98473271cd29bf9,round_2,Housing,Housing,Housing,True
+a80c430f32400f5a5a832a2dc04caabd7d66a6d7,labels,Sports,Sports,Sports,True
+4a035a8f7634abb0bb632dcb48f505579f8dabbf,round_2,Environment & Weather,Science & Technology,Science & Technology,False
+eb583cd000170f195cec2b38af70b6efb6f05dd5,round_2,Politics & Government,Science & Technology,Science & Technology,False
+55b6ff669a49cbbc8366b48e16183eaf0a521f46,labels,Politics & Government,Politics & Government,Politics & Government,True
+3b8d84d6298e475d226c2b57847560ba3de5d0ee,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+e0496c06ac96159b52f302240e7e65c5ec111b6e,labels,Politics & Government,Economy & Business,Economy & Business,False
+cfdda5695c20bec6f9c8829307da702d59ccd347,labels,Education,Education,Education,True
+0da1e6e22d2289f30f9659a17ca9459cff5cd9f1,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+3dd7e0cfb0c7169228fe4f1c6cb43b81fdcb81e2,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+fc1338055b58e4f23cd28852092a75bd95e18103,round_2,Economy & Business,Economy & Business,Economy & Business,True
+5b7ec56d669396af1975c9509fce044f1c620fd7,labels,Education,Education,Education,True
+3216b62c3c0c44b69e7386bbda7fd29707cf0a91,round_2,Science & Technology,Science & Technology,Science & Technology,True
+8297263f4623c44361a0368a1a015e40c2d1af16,labels,Other,Other,Other,True
+80d2a7c1a4ee2d617c74d9c6291fff46055bf41e,round_2,Health,Health,Health,True
+9013897348af34cfe090ea78c024ed848bc9b506,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+5a4d34797f8771bba6ac69681c59513a23f3e1a9,labels,Education,Education,Education,True
+bfa3248bff558391746ffa04c73164990517f7f7,labels,Environment & Weather,Economy & Business,Economy & Business,False
+d4a2cbc745fe7997c2cbd51f93185f0352fa6f89,round_2,Transportation,Transportation,Transportation,True
+6dda1c38cbba2ee62ef1b8604572104f690233f1,labels,"Lifestyle, Arts & Entertainment",Other,Other,False
+ad5ef62f3d1c39d72798527c9663117aa8449ddb,round_2,Housing,Housing,Housing,True
+15bbed14b72041d51181af73005d86d056c57b8c,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+fcc2c1b82804f30866121db729c01f83fbe7726a,labels,Sports,Sports,Sports,True
+03d4948470780a3d479fb95396c82eaf2747f6dc,round_2,Education,Science & Technology,Science & Technology,False
+2c64b1e92d7e1ea0fa9f2639bcbcd2ae99df2c3d,labels,Education,Education,Education,True
+7cc8995d2e57fa9ab72c5f4dbb0bd8b3cddc4c0a,round_2,Housing,Housing,Housing,True
+f5d32fbc13e7b2f0c201bcf40a89346ba8c39b05,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+004b719d4e319c90cd540cc43ce6c5a49aae6f58,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+726473b5f8c5b88b58c8ad3364af502a034550df,round_2,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+188393514ac43b1702945249d7dac32fc019d942,round_2,Education,Education,Education,True
+3cf01843b6f79f71945b83072b7b1260040d6a71,labels,Sports,Sports,Sports,True
+55cde0eb770a0f3e43f5bb1418071ba60e40548c,labels,Other,Other,Other,True
+2feb7acebb70eeee4fe049f0455d5580563cf6c2,round_2,Health,Economy & Business,Economy & Business,False
+f5aee0f45cdc35f3a80a9fd602ab7cc34e668d67,labels,Crime & Public Safety,Crime & Public Safety,Crime & Public Safety,True
+f71f5af34df68fed058ab1ed6ca2496e65057b06,round_2,Other,Science & Technology,Science & Technology,False
+0e8fb7c3555261564b764091f46bf921d2de7aa0,round_2,Transportation,Transportation,Transportation,True
+eb298afb1e9018e13b4c870508869a6abf576396,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+2dd1fd58ea0b84c2c802af74a6fb1f4563de12dc,round_2,Economy & Business,Economy & Business,Economy & Business,True
+bba418f3421ba383b0527919995d9c5d4a31b9f0,round_2,Economy & Business,Economy & Business,Economy & Business,True
+ab635979934aa22896a8b0ea8bb3aa92883df4fe,labels,Transportation,Transportation,Transportation,True
+107cb9f1c2b0d859f3899dff1d2987c46a04d9cd,round_2,Education,Health,Health,False
+51b9c67924a0e7d28313703d0973c28aa77d3af9,labels,"Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment","Lifestyle, Arts & Entertainment",True
+610bbca18d2e672ec8a2ff090fb77e11cd655740,labels,Environment & Weather,Science & Technology,Science & Technology,False
+738f68385d9be64d575fa5592eeeae72350103b7,labels,Sports,Sports,Sports,True
+9470e815228887e5df7ba2a01dc89b13ae2404c0,round_2,Environment & Weather,Environment & Weather,Environment & Weather,True
+b5e91036d2b01ab42ea42a3c11fcd52d83329621,labels,Other,Other,Other,True
+60cd4cbe7f9f28576a01a3d7f28a7dd264789d78,round_2,Housing,Housing,Housing,True
+c73a333ab864d882fc34fc731bdfc415a18e90ca,labels,Other,Other,Other,True
+1a840884975010da095964e7aa5076249b06559b,labels,"Lifestyle, Arts & Entertainment",Politics & Government,Politics & Government,False
+0839f226ea11722f8d3a5ae97e4274ae92de157c,round_2,Transportation,Transportation,Transportation,True
+c5e8355b039a93d5ec0be83346677a9b87c0fb5b,labels,Politics & Government,Politics & Government,Politics & Government,True
+56c50c633e204eb44852a9c6dd031852fc082805,labels,Environment & Weather,Environment & Weather,Environment & Weather,True
+00798d95fc601c933ff7c3d219f925e0935d8d5f,labels,"Lifestyle, Arts & Entertainment",Other,Other,False
+697f3f36291ca04da69024c18ad0b810ca10ef04,labels,Environment & Weather,Environment & Weather,Environment & Weather,True

@@ -1,0 +1,10 @@
+{
+  "mean_fold_accuracy": 0.8220462151394422,
+  "std_fold_accuracy": 0.044685974498536556,
+  "mean_fold_macro_f1": 0.8272319126425458,
+  "std_fold_macro_f1": 0.04128062962872167,
+  "pooled_accuracy": 0.8220271348762969,
+  "pooled_macro_f1": 0.8282894476191944,
+  "mean_selected_epoch": 4.2,
+  "final_test_evaluated": false
+}

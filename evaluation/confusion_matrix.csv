@@ -1,0 +1,13 @@
+,Politics & Government,Crime & Public Safety,Economy & Business,Education,Health,Environment & Weather,Transportation,Housing,"Lifestyle, Arts & Entertainment",Sports,Science & Technology,Other
+Politics & Government,21,1,2,0,0,0,1,0,2,0,3,1
+Crime & Public Safety,1,23,0,0,0,0,1,0,0,0,0,1
+Economy & Business,0,0,20,0,0,0,0,1,1,0,0,0
+Education,0,0,0,17,2,0,0,0,0,0,1,0
+Health,0,0,1,0,17,0,0,1,1,0,0,1
+Environment & Weather,0,0,1,0,0,17,0,0,0,0,3,0
+Transportation,0,1,0,0,0,0,19,0,0,0,0,0
+Housing,0,0,0,0,0,0,0,20,0,0,0,0
+"Lifestyle, Arts & Entertainment",1,0,0,2,0,0,0,0,37,0,0,5
+Sports,0,0,0,0,0,0,0,0,1,32,0,1
+Science & Technology,0,0,1,0,0,0,0,0,0,0,23,0
+Other,0,0,0,0,0,0,0,0,2,0,2,26

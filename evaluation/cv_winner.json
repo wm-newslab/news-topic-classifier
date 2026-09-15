@@ -1,0 +1,22 @@
+{
+  "created_utc": "2026-07-29T23:02:50.214567+00:00",
+  "config": {
+    "trial_index": 1,
+    "experiment_id": "rs001_lr2e-4_r16_a32_d00_attn_full_c1500",
+    "learning_rate": 0.0002,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.0,
+    "target_modules": "attention",
+    "prompt_variant": "full",
+    "max_input_chars": 1500
+  },
+  "summary_path": "/sciclone/data10/gchewababarand/community-news-alignment/0-comm-in/LN/lora_local_news_experiments/meta-llama__Llama-3.1-8B-Instruct/rs001_lr2e-4_r16_a32_d00_attn_full_c1500/cv/cv_summary.json",
+  "status": "complete",
+  "pooled_macro_f1": 0.8282894476191944,
+  "pooled_accuracy": 0.8220271348762969,
+  "mean_fold_macro_f1": 0.8272319126425458,
+  "std_fold_macro_f1": 0.04128062962872167,
+  "mean_selected_epoch": 4.2,
+  "rank": 1
+}

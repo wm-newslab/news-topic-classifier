@@ -1,0 +1,8 @@
+{
+  "selected_epoch_from_internal_validation": 3.0,
+  "epochs_used_for_full_development_training": 3.0,
+  "final_adapter_dir": "/sciclone/data10/gchewababarand/community-news-alignment/0-comm-in/LN/lora_local_news_experiments/meta-llama__Llama-3.1-8B-Instruct/rs001_lr2e-4_r16_a32_d00_attn_full_c1500/final/final_training_all_development/adapter",
+  "n_development": 1253,
+  "n_final_test_untouched": 314,
+  "final_test_evaluated": false
+}

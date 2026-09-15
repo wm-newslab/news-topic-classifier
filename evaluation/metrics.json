@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.8662420382165605,
+  "macro_f1": 0.870760878477946,
+  "weighted_f1": 0.8663846634179271,
+  "n_eval": 314,
+  "n_correct": 272,
+  "n_unparseable": 0,
+  "elapsed_seconds": 206.2157621383667
+}
